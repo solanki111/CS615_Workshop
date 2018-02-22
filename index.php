@@ -11,9 +11,7 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>Feedback Box</h1>
-  <a href=""><img src="images/feedbackBox.png" class="img-fluid" alt="Feedback Box" width="900"></a>
-  <p>Resize this responsive page to see the effect!</p> 
+  <a href=""><img src="images/feedbackBox.png" class="img-fluid" alt="Feedback Box" width="800"></a>
 </div>
   
 <div class="container">
